@@ -206,6 +206,10 @@ A curated list of blockchain-related academic papers. Forked from [blockchain-pa
 - [IPFS - Content Addressed, Versioned, P2P File System](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf). Benet J. '15
 - [BigchainDB: A Scalable Blockchain Database](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf). McConaghy T, Marques R, Müller A, De Jonghe D, McConaghy T, McMullen G, Henderson R, Bellemare S, Granzotto A. '17
 
+## Donate
+
+* BTC: 1HRZ7og2KjqpP3v3jskgueNu64kJrFU8GD
+* ETH: 0x5c8DEB48dC08b5dC60A0290B718690a801509Dd1
 
 ## License
 
