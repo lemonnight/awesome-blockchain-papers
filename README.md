@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![](https://camo.githubusercontent.com/15a53d5ec5d896319068168a27da0203156bbdb9/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f656e676c6973682e737667)](README.md)
 
-A curated list of blockchain-related academic papers. Forked from [blockchain-papers](https://github.com/decrypto-org/blockchain-papers).
+A curated list of blockchain-related academic papers. Forked from [blockchain-papers](https://github.com/decrypto-org/blockchain-papers). Submit PR refer [contributing](contributing.md)，submit issue click [here](https://github.com/BlockchainOne/awesome-blockchain-papers/issues).
 
 ## Table of Contents
 
